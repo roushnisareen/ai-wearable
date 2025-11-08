@@ -42,12 +42,9 @@ The final goal is a **small, non-intrusive wearable or static device** capable o
 
 ---
 
-## 💡 Prerequisites & Getting Started
 
-### Note to Contributors:
-While this project does not have mandatory technical prerequisites, the pace is rapid. A strong background in **deep learning (especially NLP and Vision)** is highly recommended. The mentors are committed to providing support, but a proactive approach to learning the theoretical foundations is essential.
 
-### Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
